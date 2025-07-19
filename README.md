@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelvine Kavaya</h1>
-<h3 align="center">💻 Software Developer | 🎓 Tech Educator | 🛡️ Cybersecurity Learner</h3>
+<h3 align="center">💻 Software Developer | 🎓 Tech Educator | 🛡️ Freelancer </h3>
 
 <p align="center">
   <a href="https://github.com/Xnelliek">
